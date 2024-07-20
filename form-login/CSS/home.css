@@ -1,0 +1,21 @@
+/* body{
+    height: 600px;
+    display: flex;
+    background-size: center;
+    align-items: center;
+    justify-content: center;
+}
+.live-show{
+  width: 225px;
+  overflow: hidden ;
+  
+
+}
+.list-images{
+    display: flex;
+    
+}
+img{
+  width: 255px;
+  height: 400px;
+} */
